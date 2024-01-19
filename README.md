@@ -17,7 +17,7 @@ Monitoring:
 https://www.cryptotxalert.com/
 https://cryptocurrencyalerting.com/wallet-watch.html
 
-Risks:
+Analyse de risque:
 https://skynet.certik.com/
 https://www.oklink.com/fr
 https://tokenscope.com/
