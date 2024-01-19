@@ -1,5 +1,5 @@
 # Liste d'outils OSINT crypto
-Here is my list of free tools for conducting OSINT and blockchain investigations
+Voici ma liste d'outils gratuits pour mener des investigations et sur la blockchain.
 
 Explorers:
 https://bitaps.com/
