@@ -1,14 +1,10 @@
 # Liste d'outils OSINT crypto
 
-
-Voici une liste d'outils gratuits pour faire de l'OSINT sur la blockchain et mener des investigations on-chain: 
-
----
-
 <div align="center">
   <img src="https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png" width="500">
 </div>
 
+Voici une liste d'outils gratuits pour faire de l'OSINT sur la blockchain et mener des investigations on-chain: 
 
 ### Explorers:
 
@@ -30,6 +26,7 @@ https://localmonero.co/blocks
 
 https://phalcon.blocksec.com/explorer
 
+---
 
 ### Monitoring:
 
@@ -37,6 +34,7 @@ https://www.cryptotxalert.com/
 
 https://cryptocurrencyalerting.com/wallet-watch.html
 
+---
 
 ### Analyse de risque:
 
@@ -46,6 +44,7 @@ https://www.oklink.com/fr
 
 https://tokenscope.com/
 
+---
 
 ### Tracking:
 
@@ -61,6 +60,7 @@ https://ethtective.com/
 
 https://blockpath.com/
 
+---
 
 ### Scam Alert:
 
@@ -72,6 +72,7 @@ https://scam-alert.io/
 
 https://scamsearch.io/
 
+---
 
 ### CLI:
 
