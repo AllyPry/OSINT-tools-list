@@ -3,7 +3,7 @@
 
 Voici une liste d'outils gratuits pour faire de l'OSINT sur la blockchain et mener des investigations on-chain: 
 
-<u>**Explorers</u>**:
+**<u>Explorers</u>:**
 
 https://bitaps.com/
 https://blockchair.com/
