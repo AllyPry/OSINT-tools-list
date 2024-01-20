@@ -3,10 +3,9 @@
 
 Voici une liste d'outils gratuits pour faire de l'OSINT sur la blockchain et mener des investigations on-chain: 
 
-<u>**Titre en Gras et Souligné**</u>
 
 
-<u>**Explorers:**</u>
+## Explorers:
 
 https://bitaps.com/
 
