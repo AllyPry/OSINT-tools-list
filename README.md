@@ -3,16 +3,27 @@
 
 Voici une liste d'outils gratuits pour faire de l'OSINT sur la blockchain et mener des investigations on-chain: 
 
-**<u>Explorers</u>:**
+<u>**Titre en Gras et Souligné**</u>
+
+
+<u>**Explorers:**</u>
 
 https://bitaps.com/
+
 https://blockchair.com/
+
 https://etherscan.io/
+
 https://livenet.xrpl.org/
+
 https://solscan.io/
+
 https://btcscan.org/
+
 https://www.blockchain.com/explorer
+
 https://localmonero.co/blocks
+
 https://phalcon.blocksec.com/explorer
 
 
