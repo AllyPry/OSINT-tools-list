@@ -3,9 +3,8 @@
 
 Voici une liste d'outils gratuits pour faire de l'OSINT sur la blockchain et mener des investigations on-chain: 
 
-<div align="center">
-  ![Cover](https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png)
-</div>
+![alt text](https://github.com/AllyPry/Liste-d-outils-OSINT-crypto/blob/main/OSINT%20cover.png)
+
 
 ### Explorers:
 
