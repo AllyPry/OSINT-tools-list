@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
- <strong>Voici une liste d'outils gratuits pour faire de l'OSINT sur la blockchain et mener des investigations on-chain:</strong>
+ <strong>Voici une liste d'outils gratuits pour faire du BlockINT et mener des investigations on-chain:</strong>
 </div>
 
 ### Explorers
